@@ -1,0 +1,168 @@
+# Copyright (C) 2020 Michael Baierl - Einfach Websites
+# This file is distributed under the same license as the Projects Custom Post Type for Divi by mbaierl plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Projects Custom Post Type for Divi by mbaierl 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mbaierl-divi-projects\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-21T15:37:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: et_builder\n"
+
+#. Plugin Name of the plugin
+msgid "Projects Custom Post Type for Divi by mbaierl"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://mbaierl.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Divi \"Projects\" Custom Post Type - in case you move away from Divi but still want to use the Projects."
+msgstr ""
+
+#. Author of the plugin
+msgid "Michael Baierl - Einfach Websites"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:17
+msgid "Projects"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:18
+msgid "Project"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:20
+msgid "Add New Project"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:21
+msgid "Edit Project"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:22
+msgid "New Project"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:23
+msgid "All Projects"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:24
+msgid "View Project"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:25
+msgid "Search Projects"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:26
+msgid "Nothing found"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:27
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:58
+msgid "Project Categories"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:59
+msgid "Project Category"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:60
+msgid "Search Categories"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:61
+msgid "All Categories"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:62
+msgid "Parent Category"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:63
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:64
+msgid "Edit Category"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:65
+msgid "Update Category"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:66
+msgid "Add New Category"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:67
+msgid "New Category Name"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:68
+msgid "Categories"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:69
+msgid "You currently don't have any project categories."
+msgstr ""
+
+#: includes/divi-projects-cpt.php:83
+msgid "Project Tags"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:84
+msgid "Project Tag"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:85
+msgid "Search Tags"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:86
+msgid "All Tags"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:87
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:88
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:89
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:90
+msgid "Update Tag"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:91
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:92
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/divi-projects-cpt.php:93
+msgid "Tags"
+msgstr ""
